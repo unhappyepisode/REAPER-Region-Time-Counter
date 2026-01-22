@@ -10,21 +10,15 @@
         Time is shown in HH:MM:SS format in a compact floating window.
       </desc>
 
-      <version name="1.0.0">
-        <changelog>
-          Initial release.
-        </changelog>
+      <version name="1.0.0" author="34birds">
+        <changelog>Initial release.</changelog>
 
-        <files>
-          <file
-            name="Region Time Counter.lua"
-            type="script"
-            platform="all"
-            url="https://raw.githubusercontent.com/unhappyepisode/REAPER-Region-Time-Counter/main/Region%20Time%20Counter.lua" />
-        </files>
+        <!-- IMPORTANT: source tags must contain a URL (not self-closing) -->
+        <source file="Region Time Counter.lua">
+          https://raw.githubusercontent.com/unhappyepisode/REAPER-Region-Time-Counter/main/Region%20Time%20Counter.lua
+        </source>
 
       </version>
-
     </reapack>
   </category>
 
