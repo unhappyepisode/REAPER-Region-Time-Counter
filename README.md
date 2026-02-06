@@ -54,9 +54,7 @@ You can assign it to a shortcut or add it to a toolbar.
 
 ---
 
-## Author
-
-**34birds**
+Part of **34tools — Audio Tools by Alexey Vorobyov (34birds)**.
 
 ---
 
